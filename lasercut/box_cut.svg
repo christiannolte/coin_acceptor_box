@@ -50,42 +50,42 @@
        id="front_outsideCutPath"
        stroke="#000000"
        stroke-width="0.1"
-       style="stroke:#000000;stroke-width:1.1"
+       style="stroke:#000000;stroke-width:0.1"
        vector-effect="non-scaling-stroke" />
     <path
        d="M 95 201 L 95 230 L 91 230 L 91 250 L 95 250 L 95 270 L 91 270 L 91 290 L 95 290 L 95 310 L 91 310 L 91 330 L 95 330 L 95 350 L 91 350 L 91 370 L 95 370 L 95 390 L 95 399 L 120 399 L 120 395 L 140 395 L 140 399 L 160 399 L 160 395 L 180 395 L 180 399 L 200 399 L 200 395 L 220 395 L 220 399 L 240 399 L 245 399 L 245 370 L 249 370 L 249 350 L 245 350 L 245 330 L 249 330 L 249 310 L 245 310 L 245 290 L 249 290 L 249 270 L 245 270 L 245 250 L 249 250 L 249 230 L 245 230 L 245 210 L 245 201 L 220 201 L 220 205 L 200 205 L 200 201 L 180 201 L 180 205 L 160 205 L 160 201 L 140 201 L 140 205 L 120 205 L 120 201 L 100 201 L 95 201 Z"
        id="left_outsideCutPath"
        stroke="#000000"
        stroke-width="0.1"
-       style="stroke:#000000;stroke-width:1.1"
+       style="stroke:#000000;stroke-width:0.1"
        vector-effect="non-scaling-stroke" />
     <path
        d="M 256 245 L 256 270 L 252 270 L 252 290 L 256 290 L 256 310 L 252 310 L 252 330 L 256 330 L 256 350 L 252 350 L 252 370 L 256 370 L 256 390 L 256 395 L 266 395 L 266 399 L 286 399 L 286 395 L 306 395 L 306 399 L 326 399 L 326 395 L 336 395 L 336 370 L 340 370 L 340 350 L 336 350 L 336 330 L 340 330 L 340 310 L 336 310 L 336 290 L 340 290 L 340 270 L 336 270 L 336 250 L 336 245 L 326 245 L 326 241 L 306 241 L 306 245 L 286 245 L 286 241 L 266 241 L 266 245 L 256 245 Z"
        id="top_outsideCutPath"
        stroke="#000000"
        stroke-width="0.1"
-       style="stroke:#000000;stroke-width:1.1"
+       style="stroke:#000000;stroke-width:0.1"
        vector-effect="non-scaling-stroke" />
     <path
        d="M 0 0 L 0 29 L 4 29 L 4 49 L 0 49 L 0 69 L 4 69 L 4 89 L 0 89 L 0 109 L 4 109 L 4 129 L 0 129 L 0 149 L 4 149 L 4 169 L 0 169 L 0 189 L 0 198 L 14 198 L 14 194 L 34 194 L 34 198 L 54 198 L 54 194 L 74 194 L 74 198 L 88 198 L 88 169 L 84 169 L 84 149 L 88 149 L 88 129 L 84 129 L 84 109 L 88 109 L 88 89 L 84 89 L 84 69 L 88 69 L 88 49 L 84 49 L 84 29 L 88 29 L 88 9 L 88 0 L 74 0 L 74 4 L 54 4 L 54 0 L 34 0 L 34 4 L 14 4 L 14 0 L 0 0 Z"
        id="back_outsideCutPath"
        stroke="#000000"
        stroke-width="0.1"
-       style="stroke:#000000;stroke-width:1.1"
+       style="stroke:#000000;stroke-width:0.1"
        vector-effect="non-scaling-stroke" />
     <path
        d="M 95 0 L 95 29 L 91 29 L 91 49 L 95 49 L 95 69 L 91 69 L 91 89 L 95 89 L 95 109 L 91 109 L 91 129 L 95 129 L 95 149 L 91 149 L 91 169 L 95 169 L 95 189 L 95 198 L 120 198 L 120 194 L 140 194 L 140 198 L 160 198 L 160 194 L 180 194 L 180 198 L 200 198 L 200 194 L 220 194 L 220 198 L 240 198 L 245 198 L 245 169 L 249 169 L 249 149 L 245 149 L 245 129 L 249 129 L 249 109 L 245 109 L 245 89 L 249 89 L 249 69 L 245 69 L 245 49 L 249 49 L 249 29 L 245 29 L 245 9 L 245 0 L 220 0 L 220 4 L 200 4 L 200 0 L 180 0 L 180 4 L 160 4 L 160 0 L 140 0 L 140 4 L 120 4 L 120 0 L 100 0 L 95 0 Z"
        id="right_outsideCutPath"
        stroke="#000000"
        stroke-width="0.1"
-       style="stroke:#000000;stroke-width:1.1"
+       style="stroke:#000000;stroke-width:0.1"
        vector-effect="non-scaling-stroke" />
     <path
        d="M 256 84 L 256 109 L 252 109 L 252 129 L 256 129 L 256 149 L 252 149 L 252 169 L 256 169 L 256 189 L 252 189 L 252 209 L 256 209 L 256 229 L 256 234 L 266 234 L 266 238 L 286 238 L 286 234 L 306 234 L 306 238 L 326 238 L 326 234 L 336 234 L 336 209 L 340 209 L 340 189 L 336 189 L 336 169 L 340 169 L 340 149 L 336 149 L 336 129 L 340 129 L 340 109 L 336 109 L 336 89 L 336 84 L 326 84 L 326 80 L 306 80 L 306 84 L 286 84 L 286 80 L 266 80 L 266 84 L 256 84 Z"
        id="bottom_outsideCutPath"
        stroke="#000000"
        stroke-width="1.1"
-       style="stroke:#000000;stroke-width:1.1"
+       style="stroke:#000000;stroke-width:0.1"
        vector-effect="non-scaling-stroke" />
   </g>
   <circle
